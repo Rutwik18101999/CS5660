@@ -18,14 +18,14 @@
 - Implemented:
   - Train Test Split : 20% will be in the test set, and 80% in the training set
   - The given function 'process_tweet' tokenizes the tweet into individual words, removes stop words and applies stemming.
-  -Implement the sigmoid function
-  - Implement the cost function
-  - Implement gradient descent function
-  - Implement the extract_features function. 
-  - Training the model.
-  - testing the model
+  -Implemented the sigmoid function
+  - Implemented the cost function
+  - Implemented gradient descent function
+  - Implemented the extract_features function. 
+  - Trained the model.
+  - tested the model
   - Error analysis
-  - Predict own tweet
+  - Predicted own tweet
 
 
 <br><br>
