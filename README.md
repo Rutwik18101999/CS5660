@@ -43,7 +43,7 @@
 
 ## Reflections
 
-- Any thoughts you may have and would like to share.
+- N/A
 
 
 ## Output
